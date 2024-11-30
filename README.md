@@ -1,4 +1,5 @@
 
+
 # Welcome to EvangyTech Services
 
 **EvangyTech Services** is your go-to provider for expert tech support, digital solutions, and hassle-free device optimization. We specialize in online tech support, troubleshooting, virus removal, and much more!
@@ -14,17 +15,14 @@ Keep your devices running smoothly with our virus removal services and system op
 ### Digital Solutions & Consultation
 Need advice on tech strategies? Our experts can guide you through the best digital solutions for your business or personal needs.
 
-### Online Booking
-Book an appointment with us easily through our online platform. Get the help you need, when you need it.
-
 ## How to Get Started
 
 1. **Call Us Now** 
    Reach out directly to us at: 
    📞 [Call Now: (315) 571-6332](tel:+13155716332)
 
-2. **Contact Us** 
-   For any inquiries, support, or issues, reach out to us at: 
+2. **Email Us** 
+   For any inquiries, support, or issues, send us an email at: 
    📧 **support@evangytech.com** 
    📱 **(315) 571-6332**
 
