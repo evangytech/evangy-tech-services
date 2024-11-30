@@ -23,7 +23,7 @@ Need advice on tech strategies? Our experts can guide you through the best digit
 
 2. **Email Us** 
    For any inquiries, support, or issues, send us an email at: 
-   📧 **support@evangytech.com** 
+   📧 **evangyservices@gmail.com** 
    📱 **(315) 571-6332**
 
 3. **Follow Us Online** 
@@ -39,7 +39,7 @@ Need advice on tech strategies? Our experts can guide you through the best digit
 For any further questions or tech support, don't hesitate to get in touch. We’re here to help make your tech experience as smooth as possible.
 
 ### Reach Us:
-- 📧 **support@evangytech.com**
+- 📧 **evangyservices@gmail.com**
 - 📱 **(315) 571-6332**
 
 ---
